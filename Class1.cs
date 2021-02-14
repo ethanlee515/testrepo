@@ -4,7 +4,7 @@ public class Class1
 {
     static void Main(string[] args)
     {
-        string s = "hello world"!
-        Console.WriteLine(s);
+        string s2 = "hello world";
+        Console.WriteLine(s2);
     }
 }
